@@ -6,6 +6,7 @@ library(ggQC) #for pareto chart
 #library(Hmisc)
 
 #key changes
+#02/02 - this i just campaigns
 #28/01 - keyplayer_role add to ops_df
 
 
